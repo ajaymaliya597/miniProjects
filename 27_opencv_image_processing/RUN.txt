@@ -1,0 +1,3 @@
+Purpose: Load an image, convert to grayscale, detect edges and save the result.
+Run: python main.py
+See README.md first.

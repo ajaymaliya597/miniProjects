@@ -1,0 +1,3 @@
+Purpose: Store vectors in FAISS and retrieve the nearest item.
+Run: python main.py
+See README.md first.
